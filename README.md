@@ -1,5 +1,5 @@
 <h1>DIO-AI900-Module-02</h1>
-<p>Second module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
+<p>Second module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Image reading and processing functions)</p>
 
 <h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html<br></h2>
 <h2>Searching the lab resource</h2>
