@@ -1,7 +1,7 @@
 <h1>DIO-AI900-Module-02</h1>
 <p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
 
-<h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html<br></h2>
+<h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html<br></h2>
 <h2>Searching the lab resource</h2>
 <img src="/Assets/az-localizar-recurso.png" width= 100%>
 
