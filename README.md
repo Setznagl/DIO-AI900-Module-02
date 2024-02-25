@@ -1,28 +1,26 @@
-<h1>DIO-AI900-Module-01</h1>
+<h1>DIO-AI900-Module-02</h1>
 <p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
 
-<h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html<br>
-Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html</h2>
-<img src="az-1.png" width= 100%>
+<h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html<br></h2>
+<h2>Searching the lab resource</h2>
+<img src="/Assets/az-localizar-recurso.png" width= 100%>
 
-<h2>Creation of the "LABAI900" resource group</h2>
-<img src="az-2.png" width= 100%>
+<h2>Creation of the cognitive vision resource "LABAI900-learnvision"</h2>
+<img src="/Assets/az-criar-recurso.png" width= 100%>
 
-<h2>Creation of the Machine Learning resource "DIO AI 900 Modulo 01"</h2>
-<img src="az-3.png" width= 100%>
+<h2>Access to the cognitive vision subportal;</h2>
+<img src="/Assets/az-criar-e-acessar-via-subporta.png" width= 100%>
 
-<h2>Access to the Machine Learning subportal;</h2>
-<img src="az-4.png" width= 100%>
+<h2>Creation of the JOB labai900-learnvision;<br>
+Access to the options menu</h2>
+<img src="/Assets/az-menu-de-selecoes.png" width= 100%>
 
-<h2>Creation of the JOB mslearn-bike-automl;
-Waiting time for test replication (Up to 15 minutes)</h2>
-<img src="az-5.png" width= 100%>
+<h2>First test with face recognition</h2>
+<img src="/Assets/t1.png" width=100%>
 
-<h2>Analysis of metrics;</h2>
+<h2>Second test with text extration</h2>
+<img src="/Assets/t2.png" width=100%>
 
-<h2>Creation of a model based on the result of the algorithm;
-Waiting time for replication (Up to 10 minutes)</h2>
-<img src="az-6.png" width= 100%>
+<h2>Third test with image caption</h2>
+<img src="/Assets/t3.png" width=100%>
 
-<h2>Test based on the example provided by the mylearning portal</h2>
-<img src="az-7.png" width= 100%>
