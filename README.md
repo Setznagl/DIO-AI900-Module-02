@@ -24,3 +24,6 @@ Access to the options menu</h2>
 <h2>Third test with image caption</h2>
 <img src="/Assets/t3.png" width=100%>
 
+<h2>Fourth teste with image background remove</h2>
+<img src="/Assets/t4.png" width=100%>
+
