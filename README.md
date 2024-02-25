@@ -25,5 +25,5 @@ Access to the options menu</h2>
 <img src="/Assets/t3.png" width=100%>
 
 <h2>Fourth teste with image background remove</h2>
-<img src="/Assets/T4.png" width=100%>
+<img src="/Assets/t4.png" width=100%>
 
