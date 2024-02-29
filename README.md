@@ -1,3 +1,5 @@
+<img src="/Assets/rep-temp.png" width= 100%>
+
 <h1>DIO-AI900-Module-02</h1>
 <p>Second module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Image reading and processing functions)</p>
 
